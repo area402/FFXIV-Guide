@@ -1,1 +1,3 @@
 # FFXIV-Guide
+
+FINAL FANTASY XIVに関するガイド集
